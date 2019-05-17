@@ -21,6 +21,7 @@ MAT files in folder *Featrue Matrix* represent the feature matrices of three par
 (3) Bulls-eye test evaluation protocol
 
 ## zip *SoyCultivarVein_Dataset.7z*
+The down load URL is **
 This zip file contains the whole SoyCultivarVein dataset including 100 cultivars with 6 leaf images in each cultivar.
 
 ## Author contact info
