@@ -18,6 +18,8 @@ step (2) "btf_result.mat" is such a feature matrix obtained by saving the yyy1-y
 
 step (3) run AAAI20201NNfulltest.m to calculate the 1NN results.
 
+p1s2.mat, p2s2.mat, p3s2.mat are the feature matrices of SoyCultivarVein dataset. iw_result.mat is the feature matrix of IwPIS dataset.
+
 ## Detailed Instruction for *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*
 Folder *Feature Matrix*
 MAT files in folder *Featrue Matrix* represent the feature matrices of three parts of the soybean datasets, and can be used directly for performance evaluation (using Concatenate_soybeantest.m).
