@@ -11,8 +11,11 @@ Two works are included.
 
 ## Detailed Instrcution for *Patchy Image Structure Classification Using Multi-Orientation Region Transform*
 1. A zip file "Leeds_btf_patchy_dataset.zip" contains the code, extracted feature matrix, and the dataset for the whole evalution on BtfPIS dataset introduced in our paper. 
+
 step (1) run butflymain.m to calculate the feature matrix.
+
 step (2) "btf_result.mat" is such a feature matrix obtained by saving the yyy1-yyy4 in step (1). 
+
 step (3) run AAAI20201NNfulltest.m to calculate the 1NN results.
 
 ## Detailed Instruction for *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*
