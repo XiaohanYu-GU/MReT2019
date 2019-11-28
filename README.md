@@ -10,7 +10,7 @@ Two works are included.
 * Xiaohan Yu, Yongsheng Gao, Shengwu Xiong, Xiaohui Yuan. *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*, IEEE Access 2019.
 
 ## Detailed Instrcution for AAAI 2020 *Patchy Image Structure Classification Using Multi-Orientation Region Transform*
-1. A zip file "Leeds_btf_patchy_dataset.zip" contains the code, extracted feature matrix, and the dataset for the whole evalution on BtfPIS, IwPIS, and SoyCultivarVein datasets introduced in our paper. 
+1. A zip file "AAAI2020.zip" contains the code, extracted feature matrix, and the dataset for the whole evalution on BtfPIS, IwPIS, and SoyCultivarVein datasets introduced in our paper. 
 
 step (1) run butflymain.m to calculate the feature matrix.
 
