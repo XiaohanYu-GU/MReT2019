@@ -9,18 +9,20 @@ Two works are included.
 2. A MATLAB code for implementation of MReT presented in:
 * Xiaohan Yu, Yongsheng Gao, Shengwu Xiong, Xiaohui Yuan. *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*, IEEE Access 2019.
 
-## Detailed Instrcution for *Patchy Image Structure Classification Using Multi-Orientation Region Transform*
+## Detailed Instrcution for AAAI 2020 *Patchy Image Structure Classification Using Multi-Orientation Region Transform*
 1. A zip file "Leeds_btf_patchy_dataset.zip" contains the code, extracted feature matrix, and the dataset for the whole evalution on BtfPIS, IwPIS, and SoyCultivarVein datasets introduced in our paper. 
 
 step (1) run butflymain.m to calculate the feature matrix.
 
-step (2) "btf_result.mat" is such a feature matrix obtained by saving the yyy1-yyy4 in step (1). 
+step (2) "btf_result.mat","p1.mat"-"p3.mat", "iw_result.mat" are such feature matrices obtained by saving the yyy1-yyy4 in step (1). 
 
 step (3) run AAAI20201NNfulltest.m to calculate the 1NN results.
 
-p1s2.mat, p2s2.mat, p3s2.mat are the feature matrices of SoyCultivarVein dataset. iw_result.mat is the feature matrix of IwPIS dataset.
+p1.mat, p2.mat, p3.mat are the feature matrices of SoyCultivarVein dataset. iw_result.mat is the feature matrix of IwPIS dataset. btf_result.mat is the feature matrix of BtfPIS dataset.
 
-## Detailed Instruction for *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*
+Conv_Datasets contains the datasets for Deep Learning techniques.
+
+## Detailed Instruction for IEEE Access 2019 *Multiscale Contour Steered Region Integral and Its Application for Cultivar Classification*
 Folder *Feature Matrix*
 MAT files in folder *Featrue Matrix* represent the feature matrices of three parts of the soybean datasets, and can be used directly for performance evaluation (using Concatenate_soybeantest.m).
 (1). p1s2.mat, p2s2.mat, p3s2.mat are the feature matrices of MReT using major vein and secondary vein.
