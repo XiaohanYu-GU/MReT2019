@@ -3,7 +3,7 @@ This README.md file was generated on 2019/05/16 by Xiaohan Yu.
 
 ## Basic information
 Two works are included.
-1. A MATLAB code and datasets for our paper accepted by AAAI 2020:
+1. A MATLAB code and datasets for our paper accepted by AAAI 2020: https://arxiv.org/abs/1912.00622
 * Xiaohan Yu, Yang Zhao, Yongsheng Gao, Shengwu Xiong, Xiaohui Yuan. *Patchy Image Structure Classification Using Multi-Orientation Region Transform*, accpeted in AAAI 2020. 
 
 2. A MATLAB code for implementation of MReT presented in:
