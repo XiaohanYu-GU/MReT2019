@@ -1,5 +1,8 @@
 # MReT2019
-This README.md file was generated on 2019/05/16 by Xiaohan Yu.
+This README.md file was generated on 2019/05/16 and updated on 2020/09/06 by Xiaohan Yu.
+
+## Latest News
+We have released another five large-scale ultra-fine-grained image datasets for research purpoose. Please visit https://maxwell.ict.griffith.edu.au/cvipl/databases.html or contact me directly to download the datasets.
 
 ## Basic information
 Two works are included.
