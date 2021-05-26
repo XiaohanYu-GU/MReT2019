@@ -1,4 +1,6 @@
 # MReT2019
+![image](https://user-images.githubusercontent.com/9549469/119602490-9905cf80-be2e-11eb-8535-28f152c0d3b2.png)
+
 This README.md file was generated on 2019/05/16 and updated on 2020/09/06 by Xiaohan Yu.
 
 ## Latest News
